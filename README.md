@@ -1,4 +1,4 @@
-Media Platforms Dashboard:
+Media Platforms Report:
 ---------------------------------------------------
 An engaging and interactive dashboard built to analyze content across three major streaming platforms: Netflix, Disney Plus, and Amazon Prime. This project provides full insights into the distribution of movies and TV shows, view ratings, genres, locations, directors, and release patterns through a clean and impressive Power BI interface.
 
