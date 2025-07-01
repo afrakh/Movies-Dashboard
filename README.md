@@ -29,9 +29,9 @@ Features
 
 Tools & Technologies
 ---------------------------------------------------
-- Power BI –> Data visualization  <br />
-- Power Query –> Data pre-processing  <br />
-- CSV Data Source –> Used for platform content analytics  <br />
+- Power BI for data visualization  <br />
+- Power Query for data pre-processing  <br />
+- CSV Data Source used for platform content analytics  <br />
 
 
 
